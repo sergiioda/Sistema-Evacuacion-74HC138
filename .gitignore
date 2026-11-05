@@ -1,0 +1,15 @@
+# Archivos compilados
+*.class
+
+# Carpetas de compilación de NetBeans/Java
+/build/
+/dist/
+
+# Configuraciones privadas del IDE
+/nbproject/private/
+/nbproject/project.xml.bak
+*.suo
+*.user
+
+# Archivos temporales
+*.log
