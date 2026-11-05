@@ -46,6 +46,8 @@ Cuando la **Alarma General está Activada** (Enable $G1 = 1$), el sistema lee lo
 
 ---
 
+![Mapa de Rutas y Salidas de Evacuación](img/mapa_evacuacion.jpg)
+
 ## 5. Instrucciones de Ejecución (Software)
 1. Abrir el proyecto en el IDE (ej. Apache NetBeans).
 2. Asegurarse de que la clase principal (Main Class) esté configurada como `logica.LogicaEnrutamiento`.
